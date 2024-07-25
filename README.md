@@ -8,10 +8,10 @@ In the file "Schema and Data" you will find a jupyter notebook that webscrapes d
 - List of abilities
 - List of held items
 - List of natures
-- List of pokemon including:
-  - name
-  - type
-  - type 2
+- List of pokémon including:
+  - Name
+  - Type
+  - Type 2
 
 This information can be exported in the following file formats:
 - .sql file
