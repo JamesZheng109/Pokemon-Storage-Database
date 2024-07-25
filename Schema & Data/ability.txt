@@ -1,0 +1,306 @@
+Name:Adaptability
+Name:Aerilate
+Name:Aftermath
+Name:Air Lock
+Name:Analytic
+Name:Anger Point
+Name:Anger Shell
+Name:Anticipation
+Name:Arena Trap
+Name:Armor Tail
+Name:Aroma Veil
+Name:As One
+Name:Aura Break
+Name:Bad Dreams
+Name:Ball Fetch
+Name:Battery
+Name:Battle Armor
+Name:Battle Bond
+Name:Beads of Ruin
+Name:Beast Boost
+Name:Berserk
+Name:Big Pecks
+Name:Blaze
+Name:Bulletproof
+Name:Cheek Pouch
+Name:Chilling Neigh
+Name:Chlorophyll
+Name:Clear Body
+Name:Cloud Nine
+Name:Color Change
+Name:Comatose
+Name:Commander
+Name:Competitive
+Name:Compound Eyes
+Name:Contrary
+Name:Corrosion
+Name:Costar
+Name:Cotton Down
+Name:Cud Chew
+Name:Curious Medicine
+Name:Cursed Body
+Name:Cute Charm
+Name:Damp
+Name:Dancer
+Name:Dark Aura
+Name:Dauntless Shield
+Name:Dazzling
+Name:Defeatist
+Name:Defiant
+Name:Delta Stream
+Name:Desolate Land
+Name:Disguise
+Name:Download
+Name:Dragon's Maw
+Name:Drizzle
+Name:Drought
+Name:Dry Skin
+Name:Early Bird
+Name:Earth Eater
+Name:Effect Spore
+Name:Electric Surge
+Name:Electromorphosis
+Name:Embody Aspect
+Name:Emergency Exit
+Name:Fairy Aura
+Name:Filter
+Name:Flame Body
+Name:Flare Boost
+Name:Flash Fire
+Name:Flower Gift
+Name:Flower Veil
+Name:Fluffy
+Name:Forecast
+Name:Forewarn
+Name:Friend Guard
+Name:Frisk
+Name:Full Metal Body
+Name:Fur Coat
+Name:Gale Wings
+Name:Galvanize
+Name:Gluttony
+Name:Good as Gold
+Name:Gooey
+Name:Gorilla Tactics
+Name:Grass Pelt
+Name:Grassy Surge
+Name:Grim Neigh
+Name:Guard Dog
+Name:Gulp Missile
+Name:Guts
+Name:Hadron Engine
+Name:Harvest
+Name:Healer
+Name:Heatproof
+Name:Heavy Metal
+Name:Honey Gather
+Name:Hospitality
+Name:Huge Power
+Name:Hunger Switch
+Name:Hustle
+Name:Hydration
+Name:Hyper Cutter
+Name:Ice Body
+Name:Ice Face
+Name:Ice Scales
+Name:Illuminate
+Name:Illusion
+Name:Immunity
+Name:Imposter
+Name:Infiltrator
+Name:Innards Out
+Name:Inner Focus
+Name:Insomnia
+Name:Intimidate
+Name:Intrepid Sword
+Name:Iron Barbs
+Name:Iron Fist
+Name:Justified
+Name:Keen Eye
+Name:Klutz
+Name:Leaf Guard
+Name:Levitate
+Name:Libero
+Name:Light Metal
+Name:Lightning Rod
+Name:Limber
+Name:Lingering Aroma
+Name:Liquid Ooze
+Name:Liquid Voice
+Name:Long Reach
+Name:Magic Bounce
+Name:Magic Guard
+Name:Magician
+Name:Magma Armor
+Name:Magnet Pull
+Name:Marvel Scale
+Name:Mega Launcher
+Name:Merciless
+Name:Mimicry
+Name:Mind's Eye
+Name:Minus
+Name:Mirror Armor
+Name:Misty Surge
+Name:Mold Breaker
+Name:Moody
+Name:Motor Drive
+Name:Moxie
+Name:Multiscale
+Name:Multitype
+Name:Mummy
+Name:Mycelium Might
+Name:Natural Cure
+Name:Neuroforce
+Name:Neutralizing Gas
+Name:No Guard
+Name:Normalize
+Name:Oblivious
+Name:Opportunist
+Name:Orichalcum Pulse
+Name:Overcoat
+Name:Overgrow
+Name:Own Tempo
+Name:Parental Bond
+Name:Pastel Veil
+Name:Perish Body
+Name:Pickpocket
+Name:Pickup
+Name:Pixilate
+Name:Plus
+Name:Poison Heal
+Name:Poison Point
+Name:Poison Puppeteer
+Name:Poison Touch
+Name:Power Construct
+Name:Power of Alchemy
+Name:Power Spot
+Name:Prankster
+Name:Pressure
+Name:Primordial Sea
+Name:Prism Armor
+Name:Propeller Tail
+Name:Protean
+Name:Protosynthesis
+Name:Psychic Surge
+Name:Punk Rock
+Name:Pure Power
+Name:Purifying Salt
+Name:Quark Drive
+Name:Queenly Majesty
+Name:Quick Draw
+Name:Quick Feet
+Name:Rain Dish
+Name:Rattled
+Name:Receiver
+Name:Reckless
+Name:Refrigerate
+Name:Regenerator
+Name:Ripen
+Name:Rivalry
+Name:RKS System
+Name:Rock Head
+Name:Rocky Payload
+Name:Rough Skin
+Name:Run Away
+Name:Sand Force
+Name:Sand Rush
+Name:Sand Spit
+Name:Sand Stream
+Name:Sand Veil
+Name:Sap Sipper
+Name:Schooling
+Name:Scrappy
+Name:Screen Cleaner
+Name:Seed Sower
+Name:Serene Grace
+Name:Shadow Shield
+Name:Shadow Tag
+Name:Sharpness
+Name:Shed Skin
+Name:Sheer Force
+Name:Shell Armor
+Name:Shield Dust
+Name:Shields Down
+Name:Simple
+Name:Skill Link
+Name:Slow Start
+Name:Slush Rush
+Name:Sniper
+Name:Snow Cloak
+Name:Snow Warning
+Name:Solar Power
+Name:Solid Rock
+Name:Soul-Heart
+Name:Soundproof
+Name:Speed Boost
+Name:Stakeout
+Name:Stall
+Name:Stalwart
+Name:Stamina
+Name:Stance Change
+Name:Static
+Name:Steadfast
+Name:Steam Engine
+Name:Steelworker
+Name:Steely Spirit
+Name:Stench
+Name:Sticky Hold
+Name:Storm Drain
+Name:Strong Jaw
+Name:Sturdy
+Name:Suction Cups
+Name:Super Luck
+Name:Supersweet Syrup
+Name:Supreme Overlord
+Name:Surge Surfer
+Name:Swarm
+Name:Sweet Veil
+Name:Swift Swim
+Name:Sword of Ruin
+Name:Symbiosis
+Name:Synchronize
+Name:Tablets of Ruin
+Name:Tangled Feet
+Name:Tangling Hair
+Name:Technician
+Name:Telepathy
+Name:Tera Shell
+Name:Tera Shift
+Name:Teraform Zero
+Name:Teravolt
+Name:Thermal Exchange
+Name:Thick Fat
+Name:Tinted Lens
+Name:Torrent
+Name:Tough Claws
+Name:Toxic Boost
+Name:Toxic Chain
+Name:Toxic Debris
+Name:Trace
+Name:Transistor
+Name:Triage
+Name:Truant
+Name:Turboblaze
+Name:Unaware
+Name:Unburden
+Name:Unnerve
+Name:Unseen Fist
+Name:Vessel of Ruin
+Name:Victory Star
+Name:Vital Spirit
+Name:Volt Absorb
+Name:Wandering Spirit
+Name:Water Absorb
+Name:Water Bubble
+Name:Water Compaction
+Name:Water Veil
+Name:Weak Armor
+Name:Well-Baked Body
+Name:White Smoke
+Name:Wimp Out
+Name:Wind Power
+Name:Wind Rider
+Name:Wonder Guard
+Name:Wonder Skin
+Name:Zen Mode
+Name:Zero to Hero

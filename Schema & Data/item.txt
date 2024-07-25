@@ -1,0 +1,1472 @@
+Name:Ability Capsule
+Name:Ability Patch
+Name:Ability Shield
+Name:Ability Urge
+Name:Abomasite
+Name:Absolite
+Name:Absorb Bulb
+Name:Academy Ball
+Name:Academy Bottle
+Name:Academy Cup
+Name:Academy Tablecloth
+Name:Adamant Crystal
+Name:Adamant Mint
+Name:Adamant Orb
+Name:Adrenaline Orb
+Name:Aerodactylite
+Name:Aggronite
+Name:Aguav Berry
+Name:Air Balloon
+Name:Alakazite
+Name:Alomomola Mucus
+Name:Aloraichium Z
+Name:Altarianite
+Name:Ampharosite
+Name:Amulet Coin
+Name:Antidote
+Name:Apicot Berry
+Name:Apple
+Name:Applin Juice
+Name:Apricorn
+Name:Armor Fossil
+Name:Armorite Ore
+Name:Arrokuda Scales
+Name:Aspear Berry
+Name:Assault Vest
+Name:Audinite
+Name:Auspicious Armor
+Name:Aux Evasion
+Name:Aux Guard
+Name:Aux Power
+Name:Aux Powerguard
+Name:Avocado
+Name:Awakening
+Name:Axew Scales
+Name:Azurill Fur
+Name:Babiri Berry
+Name:Bach's Food Tin
+Name:Bacon
+Name:Bagon Scales
+Name:Baguette
+Name:Ball of Mud
+Name:Balm Mushroom
+Name:Banana
+Name:Banettite
+Name:Barboach Slime
+Name:Barred Cup
+Name:Basculin Fang
+Name:Basil
+Name:Battle Tablecloth
+Name:Beach Glass
+Name:Bean Cake
+Name:Beast Ball
+Name:Beedrillite
+Name:Belue Berry
+Name:Bergmite Ice
+Name:Berry Juice
+Name:Berry Sweet
+Name:Big Bamboo Shoot
+Name:Big Malasada
+Name:Big Mushroom
+Name:Big Nugget
+Name:Big Pearl
+Name:Big Root
+Name:Binding Band
+Name:Bitter Herba Mystica
+Name:Black Apricorn
+Name:Black Augurite
+Name:Black Belt
+Name:Black Flute
+Name:Black Glasses
+Name:Black Sludge
+Name:Black Tumblestone
+Name:Blank Plate
+Name:Blastoisinite
+Name:Blazikenite
+Name:Blue Apricorn
+Name:Blue Bottle
+Name:Blue Cup
+Name:Blue Dish
+Name:Blue-Flag Pick
+Name:Blue Flute
+Name:Blue Poké Ball Pick
+Name:Blue Scarf
+Name:Blue Shard
+Name:Blue-Sky Flower Pick
+Name:Blue Tablecloth
+Name:Bluk Berry
+Name:Blunder Policy
+Name:Bob's Food Tin
+Name:Boiled Egg
+Name:Bold Mint
+Name:Bombirdier Feather
+Name:Bonsly Tears
+Name:Booster Energy
+Name:Bottle Cap
+Name:Bounsweet Sweat
+Name:Bramblin Twig
+Name:Brave Mint
+Name:Bread
+Name:Bright Powder
+Name:Brittle Bones
+Name:Bronze Bottle
+Name:Bronze Cup
+Name:Bronzor Fragment
+Name:Bruxish Tooth
+Name:Bug Gem
+Name:Bug Memory
+Name:Bug Tera Shard
+Name:Buginium Z
+Name:Bugwort
+Name:Buizel Fur
+Name:Burn Drive
+Name:Burn Heal
+Name:Butter
+Name:Cacnea Needle
+Name:Cake-Lure Base
+Name:Calcium
+Name:Calm Mint
+Name:Cameruptite
+Name:Candy Truffle
+Name:Capsakid Seed
+Name:Carbos
+Name:Careful Mint
+Name:Carrot Seeds
+Name:Casteliacone
+Name:Caster Fern
+Name:Cell Battery
+Name:Cetoddle Grease
+Name:Chalky Stone
+Name:Charcadet Soot
+Name:Charcoal
+Name:Charizardite X
+Name:Charizardite Y
+Name:Charti Berry
+Name:Cheese
+Name:Cheri Berry
+Name:Cherish Ball
+Name:Cherry Tomatoes
+Name:Chesto Berry
+Name:Chewtle Claw
+Name:Chilan Berry
+Name:Chili Sauce
+Name:Chill Drive
+Name:Chipped Pot
+Name:Choice Band
+Name:Choice Dumpling
+Name:Choice Scarf
+Name:Choice Specs
+Name:Chople Berry
+Name:Chorizo
+Name:Clauncher Claw
+Name:Claw Fossil
+Name:Cleanse Tag
+Name:Clear Amulet
+Name:Clever Feather
+Name:Clever Mochi
+Name:Clover Sweet
+Name:Coba Berry
+Name:Coconut Milk
+Name:Colbur Berry
+Name:Combee Honey
+Name:Comet Shard
+Name:Cornn Berry
+Name:Courage Candy
+Name:Courage Candy L
+Name:Courage Candy XL
+Name:Cover Fossil
+Name:Covert Cloak
+Name:Crabrawler Shell
+Name:Cracked Pot
+Name:Crafting Kit
+Name:Cream Cheese
+Name:Croagunk Poison
+Name:Crunchy Salt
+Name:Cryogonal Ice
+Name:Cubchoo Fur
+Name:Cucumber
+Name:Cufant Tarnish
+Name:Curry Powder
+Name:Custap Berry
+Name:Cyber Ball
+Name:Cyclizar Scales
+Name:Damp Mulch
+Name:Damp Rock
+Name:Dark Gem
+Name:Dark Memory
+Name:Dark Tera Shard
+Name:Darkinium Z
+Name:Dawn Stone
+Name:Dazzling Honey
+Name:Decidium Z
+Name:Dedenne Fur
+Name:Deep Sea Scale
+Name:Deep Sea Tooth
+Name:Deerling Hair
+Name:Deino Scales
+Name:Delibird Parcel
+Name:Destiny Knot
+Name:Diamond Bottle
+Name:Diamond Pattern Cup
+Name:Diamond Tablecloth
+Name:Diancite
+Name:Digger Drill
+Name:Diglett Dirt
+Name:Dire Hit
+Name:Dire Hit 2
+Name:Dire Hit 3
+Name:Direshroom
+Name:Discount Coupon
+Name:Discovery Slate
+Name:Distortion Slate
+Name:Ditto Goo
+Name:Dive Ball
+Name:DNA Splicers
+Name:Dome Fossil
+Name:Dondozo Whisker
+Name:Doppel Bonnets
+Name:Douse Drive
+Name:Draco Plate
+Name:Dragon Fang
+Name:Dragon Gem
+Name:Dragon Memory
+Name:Dragon Scale
+Name:Dragon Tera Shard
+Name:Dragonium Z
+Name:Dratini Scales
+Name:Dread Plate
+Name:Dream Ball
+Name:Dreepy Powder
+Name:Drifloon Gas
+Name:Dropped Item
+Name:Drowzee Fur
+Name:Dubious Disc
+Name:Dunsparce Scales
+Name:Durin Berry
+Name:Dusk Ball
+Name:Dusk Stone
+Name:Dynamax Candy
+Name:Dynite Ore
+Name:Earth Plate
+Name:Eevee Cup
+Name:Eevee Fur
+Name:Eevium Z
+Name:Egg
+Name:Eiscue Down
+Name:Eject Button
+Name:Eject Pack
+Name:Electirizer
+Name:Electric Gem
+Name:Electric Memory
+Name:Electric Seed
+Name:Electric Tera Shard
+Name:Electrium Z
+Name:Elevator Key
+Name:Elixir
+Name:Energy Powder
+Name:Energy Root
+Name:Enigma Berry
+Name:Escape Rope
+Name:Ether
+Name:Everstone
+Name:Eviolite
+Name:Exercise Ball
+Name:Exp. Candy L
+Name:Exp. Candy M
+Name:Exp. Candy S
+Name:Exp. Candy XL
+Name:Exp. Candy XS
+Name:Exp. Share
+Name:Expert Belt
+Name:Fairium Z
+Name:Fairy Gem
+Name:Fairy Memory
+Name:Fairy Tera Shard
+Name:Falinks Sweat
+Name:Fancy Apple
+Name:Fast Ball
+Name:Feather Ball
+Name:Festival Ticket
+Name:Fidough Fur
+Name:Fighting Gem
+Name:Fighting Memory
+Name:Fighting Tera Shard
+Name:Fightinium Z
+Name:Figy Berry
+Name:Fine Remedy
+Name:Finizen Mucus
+Name:Finneon Scales
+Name:Fire Gem
+Name:Fire Memory
+Name:Fire Pattern Cup
+Name:Fire Stone
+Name:Fire Tera Shard
+Name:Firium Z
+Name:Fist Plate
+Name:Flabébé Pollen
+Name:Flame Orb
+Name:Flame Plate
+Name:Flamigo Down
+Name:Fletchling Feather
+Name:Flittle Down
+Name:Float Stone
+Name:Flower Pattern Cup
+Name:Flower Sweet
+Name:Fluffy Tail
+Name:Flying Gem
+Name:Flying Memory
+Name:Flying Tera Shard
+Name:Flyinium Z
+Name:Focus Band
+Name:Focus Sash
+Name:Fomantis Leaf
+Name:Foongus Spores
+Name:Fossilized Bird
+Name:Fossilized Dino
+Name:Fossilized Drake
+Name:Fossilized Fish
+Name:Fresh Cream
+Name:Fresh-Start Mochi
+Name:Fresh Water
+Name:Fried Fillet
+Name:Fried Food
+Name:Friend Ball
+Name:Frigibax Scales
+Name:Fruit Bunch
+Name:Full Heal
+Name:Full Incense
+Name:Full Restore
+Name:Galarica Cuff
+Name:Galarica Twig
+Name:Galarica Wreath
+Name:Galladite
+Name:Ganlon Berry
+Name:Garchompite
+Name:Gardevoirite
+Name:Gastly Gas
+Name:Gengarite
+Name:Genius Feather
+Name:Genius Mochi
+Name:Genome Slate
+Name:Gentle Mint
+Name:Ghost Gem
+Name:Ghost Memory
+Name:Ghost Tera Shard
+Name:Ghostium Z
+Name:Gible Scales
+Name:Gigantamix
+Name:Gigaton Ball
+Name:Gimmighoul Coin
+Name:Girafarig Fur
+Name:Glalitite
+Name:Glimmet Crystal
+Name:Gold Bottle
+Name:Gold Bottle Cap
+Name:Gold Cup
+Name:Gold Leaf
+Name:Gold Pick
+Name:Golden Nanab Berry
+Name:Golden Pinap Berry
+Name:Golden Razz Berry
+Name:Gooey Mulch
+Name:Goomy Goo
+Name:Gothita Eyelash
+Name:Grain Cake
+Name:Grass Gem
+Name:Grass Memory
+Name:Grass Tera Shard
+Name:Grassium Z
+Name:Grassy Seed
+Name:Great Ball
+Name:Greavard Wax
+Name:Green Apricorn
+Name:Green Bell Pepper
+Name:Green Dish
+Name:Green Poké Ball Pick
+Name:Green Scarf
+Name:Green Shard
+Name:Grepa Berry
+Name:Grimer Toxin
+Name:Grip Claw
+Name:Griseous Core
+Name:Griseous Orb
+Name:Grit Dust
+Name:Grit Gravel
+Name:Grit Pebble
+Name:Grit Rock
+Name:Ground Gem
+Name:Ground Memory
+Name:Ground Tera Shard
+Name:Groundium Z
+Name:Growlithe Fur
+Name:Growth Mulch
+Name:Grubby Hanky
+Name:Guard Spec.
+Name:Gulpin Mucus
+Name:Gyaradosite
+Name:Haban Berry
+Name:Ham
+Name:Hamburger
+Name:Happiny Dust
+Name:Hard Stone
+Name:Hasty Mint
+Name:Hatenna Dust
+Name:Hawlucha Down
+Name:Heal Ball
+Name:Heal Powder
+Name:Health Candy
+Name:Health Candy L
+Name:Health Candy XL
+Name:Health Feather
+Name:Health Mochi
+Name:Heart Scale
+Name:Hearty Grains
+Name:Heat Rock
+Name:Heavy Ball
+Name:Heavy-Duty Boots
+Name:Helix Fossil
+Name:Heracronite
+Name:Heracross Claw
+Name:Herbed Sausage
+Name:Heroic Sword Pick
+Name:Hi-tech Earbuds
+Name:Hippopotas Sand
+Name:HM01
+Name:HM02
+Name:HM03
+Name:HM04
+Name:HM05
+Name:HM06
+Name:HM07
+Name:HM08
+Name:Hometown Muffin
+Name:Hondew Berry
+Name:Honey
+Name:Honey Cake
+Name:Honor Of Kalos
+Name:Hopo Berry
+Name:Hoppip Leaf
+Name:Horseradish
+Name:Houndoominite
+Name:Houndour Fang
+Name:HP Up
+Name:Hyper Potion
+Name:Iapapa Berry
+Name:Ice Gem
+Name:Ice Heal
+Name:Ice Memory
+Name:Ice Stone
+Name:Ice Tera Shard
+Name:Iceroot Carrot
+Name:Icicle Plate
+Name:Icium Z
+Name:Icy Rock
+Name:Igglybuff Fluff
+Name:Impidimp Hair
+Name:Impish Mint
+Name:Incinium Z
+Name:Indeedee Fur
+Name:Insect Plate
+Name:Instant Noodles
+Name:Intriguing Stone
+Name:Iron
+Name:Iron Ball
+Name:Iron Barktongue
+Name:Iron Chunk
+Name:Iron Plate
+Name:Item Drop
+Name:Item Urge
+Name:Jaboca Berry
+Name:Jalapeño
+Name:Jam
+Name:Jet Ball
+Name:Johto Slate
+Name:Jolly Mint
+Name:Jubilife Muffin
+Name:Kangaskhanite
+Name:Kanto Slate
+Name:Kasib Berry
+Name:Kebia Berry
+Name:Kee Berry
+Name:Kelpsy Berry
+Name:Ketchup
+Name:King's Leaf
+Name:King's Rock
+Name:Kiwi
+Name:Klawf Claw
+Name:Klawf Stick
+Name:Klefki Key
+Name:Kofu's Wallet
+Name:Komala Claw
+Name:Kommonium Z
+Name:Koraidon's Poké Ball
+Name:Kricketot Shell
+Name:Lagging Tail
+Name:Lansat Berry
+Name:Large Leek
+Name:Larvesta Fuzz
+Name:Larvitar Claw
+Name:Latiasite
+Name:Latiosite
+Name:Lava Cookie
+Name:Lax Incense
+Name:Lax Mint
+Name:Leaden Ball
+Name:Leader's Crest
+Name:Leaf Letter
+Name:Leaf Stone
+Name:Leafy Tablecloth
+Name:Lechonk Hair
+Name:Leek
+Name:Leftovers
+Name:Legend Plate
+Name:Lemonade
+Name:Leppa Berry
+Name:Lettuce
+Name:Level Ball
+Name:Liechi Berry
+Name:Life Orb
+Name:Light Ball
+Name:Light Clay
+Name:Lilac Tablecloth
+Name:Linking Cord
+Name:Litleo Tuft
+Name:Loaded Dice
+Name:Lone Earring
+Name:Lonely Mint
+Name:Looker Ticket
+Name:Lopunnite
+Name:Lost Satchel
+Name:Love Ball
+Name:Love Sweet
+Name:Lucarionite
+Name:Luck Incense
+Name:Lucky Egg
+Name:Lucky Punch
+Name:Lum Berry
+Name:Luminous Moss
+Name:Lumiose Galette
+Name:Lunalium Z
+Name:Lure
+Name:Lure Ball
+Name:Lustrous Globe
+Name:Lustrous Orb
+Name:Luvdisc Scales
+Name:Luxury Ball
+Name:Lycanium Z
+Name:Macho Brace
+Name:Magical Heart Pick
+Name:Magical Star Pick
+Name:Magikarp Scales
+Name:Magmarizer
+Name:Magnemite Screw
+Name:Magnet
+Name:Mago Berry
+Name:Magost Berry
+Name:Makuhita Sweat
+Name:Malicious Armor
+Name:Manectite
+Name:Mankey Fur
+Name:Maranga Berry
+Name:Marble
+Name:Mareanie Spike
+Name:Mareep Wool
+Name:Marill Ball
+Name:Marmalade
+Name:Marsh Balm
+Name:Marshadium Z
+Name:Maschiff Fang
+Name:Master Ball
+Name:Masterpiece Teacup
+Name:Mawilite
+Name:Max Elixir
+Name:Max Ether
+Name:Max Honey
+Name:Max Lure
+Name:Max Mushrooms
+Name:Max Potion
+Name:Max Repel
+Name:Max Revive
+Name:Mayonnaise
+Name:Meadow Plate
+Name:Medichamite
+Name:Medicinal Leek
+Name:Meditite Sweat
+Name:Mental Herb
+Name:Meowth Fur
+Name:Metagrossite
+Name:Metal Alloy
+Name:Metal Coat
+Name:Metal Powder
+Name:Metronome
+Name:Mewnium Z
+Name:Mewtwonite X
+Name:Mewtwonite Y
+Name:Micle Berry
+Name:Mighty Candy
+Name:Mighty Candy L
+Name:Mighty Candy XL
+Name:Mild Mint
+Name:Mimikium Z
+Name:Mimikyu Scrap
+Name:Mind Plate
+Name:Mint Tablecloth
+Name:Miracle Seed
+Name:Miraidon's Poké Ball
+Name:Mirror Herb
+Name:Misdreavus Tears
+Name:Misty Seed
+Name:Mixed Mushrooms
+Name:Modest Mint
+Name:Monstrous Tablecloth
+Name:Moomoo Cheese
+Name:Moomoo Milk
+Name:Moon Ball
+Name:Moon Stone
+Name:Mudbray Mud
+Name:Murkrow Bauble
+Name:Muscle Band
+Name:Muscle Feather
+Name:Muscle Mochi
+Name:Mushroom Cake
+Name:Mustard
+Name:Mysterious Shard L
+Name:Mysterious Shard S
+Name:Mystic Water
+Name:Nacli Salt
+Name:Naive Mint
+Name:Nanab Berry
+Name:Naughty Mint
+Name:Nest Ball
+Name:Net Ball
+Name:Never-Melt Ice
+Name:Noibat Fur
+Name:Nomel Berry
+Name:Noodles
+Name:Normal Gem
+Name:Normal Tera Shard
+Name:Normalium Z
+Name:Nugget
+Name:Numel Lava
+Name:Nymble Claw
+Name:Occa Berry
+Name:Oceanic Slate
+Name:Odd Incense
+Name:Odd Keystone
+Name:Old Amber
+Name:Old Gateau
+Name:Olive Oil
+Name:Onion
+Name:Oran Berry
+Name:Orange Dish
+Name:Oranguru Fur
+Name:Oricorio Feather
+Name:Origin Ball
+Name:Origin Ore
+Name:Orthworm Tarnish
+Name:Oval Charm
+Name:Oval Stone
+Name:Pachirisu Fur
+Name:Pack of Potatoes
+Name:Packaged Curry
+Name:Pamtre Berry
+Name:Paralyze Heal
+Name:Parasol Pick
+Name:Park Ball
+Name:Party Sparkler Pick
+Name:Pass Orb
+Name:Passho Berry
+Name:Passimian Fur
+Name:Pasta
+Name:Pawmi Fur
+Name:Pawniard Blade
+Name:Payapa Berry
+Name:Peach Tablecloth
+Name:Peanut Butter
+Name:Pearl
+Name:Pearl String
+Name:Peat Block
+Name:Pecha Berry
+Name:Pep-Up Plant
+Name:Pepper
+Name:Permit
+Name:Persim Berry
+Name:Petaya Berry
+Name:Petilil Leaf
+Name:Pewter Crunchies
+Name:Phanpy Nail
+Name:Pichu Fur
+Name:Pickle
+Name:Picnic Set
+Name:Pidgeotite
+Name:Pika-Pika Pick
+Name:Pikachu Cup
+Name:Pikanium Z
+Name:Pikashunium Z
+Name:Pinap Berry
+Name:Pincurchin Spines
+Name:Pineapple
+Name:Pineco Husk
+Name:Pink Apricorn
+Name:Pink Bottle
+Name:Pink Cup
+Name:Pink Nectar
+Name:Pink Scarf
+Name:Pink Tablecloth
+Name:Pinsirite
+Name:Pixie Plate
+Name:Plaid Tablecloth (B)
+Name:Plaid Tablecloth (R)
+Name:Plaid Tablecloth (Y)
+Name:Plasma Card
+Name:Plume Fossil
+Name:Plump Beans
+Name:Poison Barb
+Name:Poison Gem
+Name:Poison Memory
+Name:Poison Tera Shard
+Name:Poisonium Z
+Name:Poké Ball
+Name:Poké Doll
+Name:Poké Toy
+Name:Polished Mud Ball
+Name:Polka-Dot Bottle
+Name:Polka-Dot Cup
+Name:Polka-Dot Tablecloth
+Name:Pomeg Berry
+Name:Pop Pod
+Name:Potato Salad
+Name:Potato Tortilla
+Name:Potion
+Name:Power Anklet
+Name:Power Band
+Name:Power Belt
+Name:Power Bracer
+Name:Power Herb
+Name:Power Lens
+Name:Power Plant Pass
+Name:Power Weight
+Name:PP Max
+Name:PP Up
+Name:Precooked Burger
+Name:Premier Ball
+Name:Pretty Feather
+Name:Primarium Z
+Name:Prism Scale
+Name:Prison Bottle
+Name:Prof's Letter
+Name:Prosciutto
+Name:Protective Pads
+Name:Protector
+Name:Protein
+Name:Psychic Gem
+Name:Psychic Memory
+Name:Psychic Seed
+Name:Psychic Tera Shard
+Name:Psychium Z
+Name:Psyduck Down
+Name:Punching Glove
+Name:Pungent Root
+Name:Pure Incense
+Name:Purple Nectar
+Name:Qualot Berry
+Name:Quick Ball
+Name:Quick Candy
+Name:Quick Candy L
+Name:Quick Candy XL
+Name:Quick Claw
+Name:Quick Powder
+Name:Quiet Mint
+Name:Qwilfish Spines
+Name:Rabuta Berry
+Name:Rage Candy Bar
+Name:Rainbow Slate
+Name:Ralts Dust
+Name:Rare Bone
+Name:Rare Candy
+Name:Rash Mint
+Name:Rawst Berry
+Name:Razor Claw
+Name:Razor Fang
+Name:Razz Berry
+Name:Reaper Cloth
+Name:Red Apricorn
+Name:Red Bell Pepper
+Name:Red Card
+Name:Red Dish
+Name:Red-Flag Pick
+Name:Red Flute
+Name:Red Nectar
+Name:Red Onion
+Name:Red Poké Ball Pick
+Name:Red Scarf
+Name:Red Shard
+Name:Relaxed Mint
+Name:Relic Band
+Name:Relic Copper
+Name:Relic Crown
+Name:Relic Gold
+Name:Relic Silver
+Name:Relic Statue
+Name:Relic Vase
+Name:Rellor Mud
+Name:Remedy
+Name:Repeat Ball
+Name:Repel
+Name:Reset Urge
+Name:Resist Feather
+Name:Resist Mochi
+Name:Reveal Glass
+Name:Revival Herb
+Name:Revive
+Name:Ribbon Sweet
+Name:Rice
+Name:Rindo Berry
+Name:Ring Target
+Name:Riolu Fur
+Name:Rock Gem
+Name:Rock Incense
+Name:Rock Memory
+Name:Rock Tera Shard
+Name:Rockium Z
+Name:Rockruff Rock
+Name:Rocky Helmet
+Name:Roller Skates
+Name:Rolycoly Coal
+Name:Rookidee Feather
+Name:Room Service
+Name:Root Fossil
+Name:Rose Incense
+Name:Roseli Berry
+Name:Roto Bargain
+Name:Roto Boost
+Name:Roto Catch
+Name:Roto Encounter
+Name:Roto Exp. Points
+Name:Roto Friendship
+Name:Roto Hatch
+Name:Roto HP Restore
+Name:Roto PP Restore
+Name:Roto Prize Money
+Name:Roto Stealth
+Name:Rotom Phone
+Name:Rotom Sparks
+Name:Rowap Berry
+Name:Rufflet Feather
+Name:Sablenite
+Name:Sableye Gem
+Name:Sachet
+Name:Sacred Ash
+Name:Safari Ball
+Name:Safety Goggles
+Name:Salac Berry
+Name:Salad Mix
+Name:Salamencite
+Name:Salandit Gas
+Name:Salt
+Name:Salt Cake
+Name:Salty Herba Mystica
+Name:Sand Radish
+Name:Sandile Claw
+Name:Sandwich
+Name:Sandygast Sand
+Name:Sassy Mint
+Name:Sausages
+Name:Scarlet Book
+Name:Scatter Bang
+Name:Scatterbug Powder
+Name:Sceptilite
+Name:Scizorite
+Name:Scope Lens
+Name:Scroll of Darkness
+Name:Scroll of Waters
+Name:Scyther Claw
+Name:Sea Incense
+Name:Seed of Mastery
+Name:Serious Mint
+Name:Seviper Fang
+Name:Shaderoot Carrot
+Name:Shalour Sable
+Name:Sharp Beak
+Name:Sharpedonite
+Name:Shed Shell
+Name:Shell Bell
+Name:Shellder Pearl
+Name:Shellos Mucus
+Name:Shinx Fang
+Name:Shiny Charm
+Name:Shiny Stone
+Name:Shoal Salt
+Name:Shoal Shell
+Name:Shock Drive
+Name:Shroodle Ink
+Name:Shroomish Spores
+Name:Shuca Berry
+Name:Shuppet Scrap
+Name:Silicobra Sand
+Name:Silk Scarf
+Name:Silver Bottle
+Name:Silver Cup
+Name:Silver Leaf
+Name:Silver Nanab Berry
+Name:Silver Pick
+Name:Silver Pinap Berry
+Name:Silver Powder
+Name:Silver Razz Berry
+Name:Sinistea Chip
+Name:Sitrus Berry
+Name:Skiddo Leaf
+Name:Skrelp Kelp
+Name:Skull Fossil
+Name:Skwovet Fur
+Name:Sky Plate
+Name:Sky Tumblestone
+Name:Slakoth Fur
+Name:Slowbronite
+Name:Slowpoke Claw
+Name:Slowpoke Cup
+Name:Small Bouquet
+Name:Smart Candy
+Name:Smart Candy L
+Name:Smart Candy XL
+Name:Smiling Vee Pick
+Name:Smoke Ball
+Name:Smoke Bomb
+Name:Smoke-Poke Tail
+Name:Smoked Fillet
+Name:Smoliv Oil
+Name:Smooth Rock
+Name:Sneasel Claw
+Name:Snom Thread
+Name:Snorlium Z
+Name:Snorunt Fur
+Name:Snover Berries
+Name:Snowball
+Name:Soda Pop
+Name:Soft Sand
+Name:Solganium Z
+Name:Sootfoot Root
+Name:Soothe Bell
+Name:Soul Dew
+Name:Soul Slate
+Name:Sour Herba Mystica
+Name:Spell Tag
+Name:Spelon Berry
+Name:Spice Mix
+Name:Spicy Herba Mystica
+Name:Spiritomb Fragment
+Name:Splash Plate
+Name:Spoiled Apricorn
+Name:Spoink Pearl
+Name:Spooky Plate
+Name:Spooky Tablecloth
+Name:Sport Ball
+Name:Springy Mushroom
+Name:Sprinklotad
+Name:Squall Slate
+Name:Squawkabilly Feather
+Name:Stable Mulch
+Name:Stantler Hair
+Name:Star Piece
+Name:Star Sweet
+Name:Stardust
+Name:Starf Berry
+Name:Starly Feather
+Name:Stealth Spray
+Name:Steel Bottle (B)
+Name:Steel Bottle (R)
+Name:Steel Bottle (Y)
+Name:Steel Gem
+Name:Steel Memory
+Name:Steel Tera Shard
+Name:Steelium Z
+Name:Steelixite
+Name:Sticky Barb
+Name:Sticky Glob
+Name:Stone Plate
+Name:Stonjourner Stone
+Name:Strange Ball
+Name:Strange Souvenir
+Name:Stratospheric Slate
+Name:Strawberry
+Name:Strawberry Sweet
+Name:Stretchy Spring
+Name:Striped Bottle
+Name:Striped Cup
+Name:Striped Tablecloth
+Name:Stunky Fur
+Name:Sun Stone
+Name:Sunkern Leaf
+Name:Sunrise Flower Pick
+Name:Sunset Flower Pick
+Name:Super Lure
+Name:Super Potion
+Name:Super Repel
+Name:Surskit Syrup
+Name:Swablu Fluff
+Name:Swampertite
+Name:Swap Snack
+Name:Sweet Apple
+Name:Sweet Heart
+Name:Sweet Herba Mystica
+Name:Swift Feather
+Name:Swift Mochi
+Name:Swordcap
+Name:Syrupy Apple
+Name:Tadbulb Mucus
+Name:Tamato Berry
+Name:Tandemaus Fur
+Name:Tanga Berry
+Name:Tapunium Z
+Name:Tarountula Thread
+Name:Tart Apple
+Name:Tatsugiri Scales
+Name:Tauros Hair
+Name:Tectonic Slate
+Name:Teddiursa Claw
+Name:Tera Orb
+Name:Terrain Extender
+Name:Thick Club
+Name:Throat Spray
+Name:Thunder Stone
+Name:Timer Ball
+Name:Timid Mint
+Name:Tin of Beans
+Name:Tinkatink Hair
+Name:Tiny Bamboo Shoot
+Name:Tiny Mushroom
+Name:TM00
+Name:TM001
+Name:TM002
+Name:TM003
+Name:TM004
+Name:TM005
+Name:TM006
+Name:TM007
+Name:TM008
+Name:TM009
+Name:TM010
+Name:TM011
+Name:TM012
+Name:TM013
+Name:TM014
+Name:TM015
+Name:TM016
+Name:TM017
+Name:TM018
+Name:TM019
+Name:TM020
+Name:TM021
+Name:TM022
+Name:TM023
+Name:TM024
+Name:TM025
+Name:TM026
+Name:TM027
+Name:TM028
+Name:TM029
+Name:TM030
+Name:TM031
+Name:TM032
+Name:TM033
+Name:TM034
+Name:TM035
+Name:TM036
+Name:TM037
+Name:TM038
+Name:TM039
+Name:TM040
+Name:TM041
+Name:TM042
+Name:TM043
+Name:TM044
+Name:TM045
+Name:TM046
+Name:TM047
+Name:TM048
+Name:TM049
+Name:TM050
+Name:TM051
+Name:TM052
+Name:TM053
+Name:TM054
+Name:TM055
+Name:TM056
+Name:TM057
+Name:TM058
+Name:TM059
+Name:TM060
+Name:TM061
+Name:TM062
+Name:TM063
+Name:TM064
+Name:TM065
+Name:TM066
+Name:TM067
+Name:TM068
+Name:TM069
+Name:TM070
+Name:TM071
+Name:TM072
+Name:TM073
+Name:TM074
+Name:TM075
+Name:TM076
+Name:TM077
+Name:TM078
+Name:TM079
+Name:TM080
+Name:TM081
+Name:TM082
+Name:TM083
+Name:TM084
+Name:TM085
+Name:TM086
+Name:TM087
+Name:TM088
+Name:TM089
+Name:TM090
+Name:TM091
+Name:TM092
+Name:TM093
+Name:TM094
+Name:TM095
+Name:TM096
+Name:TM097
+Name:TM098
+Name:TM099
+Name:TM100
+Name:TM101
+Name:TM102
+Name:TM103
+Name:TM104
+Name:TM105
+Name:TM106
+Name:TM107
+Name:TM108
+Name:TM109
+Name:TM110
+Name:TM111
+Name:TM112
+Name:TM113
+Name:TM114
+Name:TM115
+Name:TM116
+Name:TM117
+Name:TM118
+Name:TM119
+Name:TM120
+Name:TM121
+Name:TM122
+Name:TM123
+Name:TM124
+Name:TM125
+Name:TM126
+Name:TM127
+Name:TM128
+Name:TM129
+Name:TM130
+Name:TM131
+Name:TM132
+Name:TM133
+Name:TM134
+Name:TM135
+Name:TM136
+Name:TM137
+Name:TM138
+Name:TM139
+Name:TM140
+Name:TM141
+Name:TM142
+Name:TM143
+Name:TM144
+Name:TM145
+Name:TM146
+Name:TM147
+Name:TM148
+Name:TM149
+Name:TM150
+Name:TM151
+Name:TM152
+Name:TM153
+Name:TM154
+Name:TM155
+Name:TM156
+Name:TM157
+Name:TM158
+Name:TM159
+Name:TM160
+Name:TM161
+Name:TM162
+Name:TM163
+Name:TM164
+Name:TM165
+Name:TM166
+Name:TM167
+Name:TM168
+Name:TM169
+Name:TM170
+Name:TM171
+Name:TM172
+Name:TM173
+Name:TM174
+Name:TM175
+Name:TM176
+Name:TM177
+Name:TM178
+Name:TM179
+Name:TM180
+Name:TM181
+Name:TM182
+Name:TM183
+Name:TM184
+Name:TM185
+Name:TM186
+Name:TM187
+Name:TM188
+Name:TM189
+Name:TM190
+Name:TM191
+Name:TM192
+Name:TM193
+Name:TM194
+Name:TM195
+Name:TM196
+Name:TM197
+Name:TM198
+Name:TM199
+Name:TM200
+Name:TM201
+Name:TM202
+Name:TM203
+Name:TM204
+Name:TM205
+Name:TM206
+Name:TM207
+Name:TM208
+Name:TM209
+Name:TM210
+Name:TM211
+Name:TM212
+Name:TM213
+Name:TM214
+Name:TM215
+Name:TM216
+Name:TM217
+Name:TM218
+Name:TM219
+Name:TM220
+Name:TM221
+Name:TM222
+Name:TM223
+Name:TM224
+Name:TM225
+Name:TM226
+Name:TM227
+Name:TM228
+Name:TM229
+Name:TMV Pass
+Name:Toedscool Flaps
+Name:Tofu
+Name:Tomato
+Name:Torkoal Coal
+Name:Tough Candy
+Name:Tough Candy L
+Name:Tough Candy XL
+Name:Toxel Sparks
+Name:Toxic Orb
+Name:Toxic Plate
+Name:TR00
+Name:TR01
+Name:TR02
+Name:TR03
+Name:TR04
+Name:TR05
+Name:TR06
+Name:TR07
+Name:TR08
+Name:TR09
+Name:TR10
+Name:TR11
+Name:TR12
+Name:TR13
+Name:TR14
+Name:TR15
+Name:TR16
+Name:TR17
+Name:TR18
+Name:TR19
+Name:TR20
+Name:TR21
+Name:TR22
+Name:TR23
+Name:TR24
+Name:TR25
+Name:TR26
+Name:TR27
+Name:TR28
+Name:TR29
+Name:TR30
+Name:TR31
+Name:TR32
+Name:TR33
+Name:TR34
+Name:TR35
+Name:TR36
+Name:TR37
+Name:TR38
+Name:TR39
+Name:TR40
+Name:TR41
+Name:TR42
+Name:TR43
+Name:TR44
+Name:TR45
+Name:TR46
+Name:TR47
+Name:TR48
+Name:TR49
+Name:TR50
+Name:TR51
+Name:TR52
+Name:TR53
+Name:TR54
+Name:TR55
+Name:TR56
+Name:TR57
+Name:TR58
+Name:TR59
+Name:TR60
+Name:TR61
+Name:TR62
+Name:TR63
+Name:TR64
+Name:TR65
+Name:TR66
+Name:TR67
+Name:TR68
+Name:TR69
+Name:TR70
+Name:TR71
+Name:TR72
+Name:TR73
+Name:TR74
+Name:TR75
+Name:TR76
+Name:TR77
+Name:TR78
+Name:TR79
+Name:TR80
+Name:TR81
+Name:TR82
+Name:TR83
+Name:TR84
+Name:TR85
+Name:TR86
+Name:TR87
+Name:TR88
+Name:TR89
+Name:TR90
+Name:TR91
+Name:TR92
+Name:TR93
+Name:TR94
+Name:TR95
+Name:TR96
+Name:TR97
+Name:TR98
+Name:TR99
+Name:Tropical Shell
+Name:Tropius Leaf
+Name:Tumblestone
+Name:Twice-Spiced Radish
+Name:Twisted Spoon
+Name:Tynamo Slime
+Name:Tyranitarite
+Name:Ultra Ball
+Name:Ultranecrozium Z
+Name:Unremarkable Teacup
+Name:Upgrade
+Name:Utility Umbrella
+Name:Varoom Fume
+Name:Vee-Vee Pick
+Name:Veluza Fillet
+Name:Venonat Fang
+Name:Venusaurite
+Name:Vinegar
+Name:Violet Book
+Name:Vivichoke
+Name:Voltorb Sparks
+Name:Wacan Berry
+Name:Wasabi
+Name:Water Gem
+Name:Water Memory
+Name:Water Stone
+Name:Water Tera Shard
+Name:Watercress
+Name:Waterium Z
+Name:Watmel Berry
+Name:Wattrel Feather
+Name:Wave Incense
+Name:Weakness Policy
+Name:Wepear Berry
+Name:Whimsical Tablecloth
+Name:Whipped Cream
+Name:Whipped Dream
+Name:White Apricorn
+Name:White Dish
+Name:White Flute
+Name:White Herb
+Name:Wide Lens
+Name:Wiglett Sand
+Name:Wiki Berry
+Name:Wing Ball
+Name:Wingull Feather
+Name:Winking Pika Pick
+Name:Wise Glasses
+Name:Wishing Piece
+Name:Wood
+Name:Wooper Slime
+Name:X Accuracy
+Name:X Accuracy 2
+Name:X Accuracy 3
+Name:X Accuracy 6
+Name:X Attack
+Name:X Attack 2
+Name:X Attack 3
+Name:X Attack 6
+Name:X Defense
+Name:X Defense 2
+Name:X Defense 3
+Name:X Defense 6
+Name:X Sp. Atk
+Name:X Sp. Atk 2
+Name:X Sp. Atk 3
+Name:X Sp. Atk 6
+Name:X Sp. Def
+Name:X Sp. Def 2
+Name:X Sp. Def 3
+Name:X Sp. Def 6
+Name:X Speed
+Name:X Speed 2
+Name:X Speed 3
+Name:X Speed 6
+Name:Yache Berry
+Name:Yarn Ball
+Name:Yellow Apricorn
+Name:Yellow Bell Pepper
+Name:Yellow Bottle
+Name:Yellow Cup
+Name:Yellow Dish
+Name:Yellow Flute
+Name:Yellow Nectar
+Name:Yellow Scarf
+Name:Yellow Shard
+Name:Yellow Tablecloth
+Name:Yogurt
+Name:Yungoos Fur
+Name:Zangoose Claw
+Name:Zap Plate
+Name:Zinc
+Name:Zoom Lens
+Name:Zorua Fur
